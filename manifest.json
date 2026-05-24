@@ -1,8 +1,9 @@
 {
-  "name": "Divya: The Explorer",
-  "short_name": "Divya:TheExplorer",
+  "name": "Divya The Explorer",
+  "short_name": "Divya",
   "start_url": "./",
-  "display": "standalone",
+  "display": "fullscreen",
+  "orientation": "portrait",
   "background_color": "#70c5ce",
   "theme_color": "#70c5ce",
   "icons": [
@@ -12,7 +13,7 @@
       "type": "image/png"
     },
     {
-      "src": "./icons/icon-512.png"
+      "src": "./icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
