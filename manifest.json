@@ -1,7 +1,7 @@
 {
   "name": "Divya: The Explorer",
   "short_name": "Divya:TheExplorer",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#70c5ce",
   "theme_color": "#70c5ce",
